@@ -17,6 +17,7 @@ Ao receber os valores no front-end é feita a atualização na barra de progress
 
 ## Script Ajax
 <br>
+
 ```
 var total = 0;
         var xhr = new XMLHttpRequest();
